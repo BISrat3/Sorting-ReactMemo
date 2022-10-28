@@ -2,7 +2,7 @@ import React from 'react'
 import classes from './Button.module.css'
 
 function Button(props) {
-    console.log('Button Running')
+    // console.log('Button Running')
 
   return (
     <button
